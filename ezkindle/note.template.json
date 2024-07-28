@@ -1,0 +1,13 @@
+{
+        "deckName": "EzKindle",
+        "modelName": "基本",
+        "fields": {
+            "表面": "",
+            "裏面": "",
+            "Audio": ""
+        },
+        "options": {
+            "allowDuplicate": false
+        },
+        "tags": ["ezkindle"]
+}
